@@ -1,3 +1,4 @@
+-project overview
 A file compression program using multi-threading is designed to take advantage of multiple processor cores to speed up the compression process. By splitting the workload into smaller tasks and processing them concurrently across multiple threads, this type of program can achieve significant performance improvements, especially when dealing with large files or directories containing many files. Here's a breakdown of how such a program might work:
 
 
